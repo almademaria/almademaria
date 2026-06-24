@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**almademaria/almademaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+I'm currently pursuing a Bachelor's Degree in Bioinformatics (UPC-UPF-UB-UAB). I enjoy combining biology and computer science to solve real-world problems, especially in genomics, data science, and computational biology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies I have worked on
+  - Python
+  - R / RStudio
+  - SQL
+  - Single-cell RNA sequencing (scRNA-seq)
+  - T-cell receptor sequencing (TCR-seq)
+  - Seurat
+  - UMAP
+  - Machine Learning
+  - Data Analysis
+
+# Contact details
+  ~ Email: almalopezsebastia@gmail.com ~
