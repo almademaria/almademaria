@@ -1,10 +1,10 @@
-## Welcome!
+# Welcome!
 
-# About me
+## About me
 
 I'm currently pursuing a Bachelor's Degree in Bioinformatics (UPC-UPF-UB-UAB). I enjoy combining biology and computer science to solve real-world problems, especially in genomics, data science, and computational biology.
 
-# Technologies I have worked on
+## Technologies I have worked on
   - Python
   - R / RStudio
   - SQL
@@ -15,5 +15,5 @@ I'm currently pursuing a Bachelor's Degree in Bioinformatics (UPC-UPF-UB-UAB). I
   - Machine Learning
   - Data Analysis
 
-# Contact details
+## Contact details
   ~ Email: almalopezsebastia@gmail.com ~
